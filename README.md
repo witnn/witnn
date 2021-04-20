@@ -33,7 +33,5 @@ public class MyLife
 ![Generic badge](https://img.shields.io/badge/engine-Unity-darkgray.svg)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
 <br>
-
-<img src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif">
 </div>
 
