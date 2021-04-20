@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**witnn/witnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media4.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952ufw8oyalcu4xbhyka6l3t8r5q6rlyp841xu1858z&rid=giphy.gif&ct=s">
 
-Here are some ideas to get you started:
+<h1>witnn</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+ 
+
+<div>
+
+```cs
+using Me;
+using Me.Languages;
+
+public class MyLife 
+{
+  Me me;
+  
+  public static void Main() 
+  {
+    me = new Me("witnn");
+    while (me.alive) 
+    {
+      me.eat();
+      me.doCoding(Languages.CSharp);
+      me.sleep();
+    }
+  }
+  
+}
+```
+</div>
+
+<div align="center">
+
+[![Generic badge](https://img.shields.io/badge/youtube-witnn_ile_Unity-red.svg)](https://www.youtube.com/channel/UCDrOUmzkU5_fQpIEg9NAZqg/)
+[![Generic badge](https://img.shields.io/badge/instagram-witnn-purple.svg)](https://www.instagram.com/bkvanc/)
+![Generic badge](https://img.shields.io/badge/engine-Unity-darkgray.svg)
+![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
+<br>
+<img src="https://media4.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952ufw8oyalcu4xbhyka6l3t8r5q6rlyp841xu1858z&rid=giphy.gif&ct=s">
+</div>
+
