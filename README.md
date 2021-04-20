@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952ufw8oyalcu4xbhyka6l3t8r5q6rlyp841xu1858z&rid=giphy.gif&ct=s">
+<img src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif">
 
 <h1>witnn</h1>
 
@@ -41,6 +41,6 @@ public class MyLife
 ![Generic badge](https://img.shields.io/badge/engine-Unity-darkgray.svg)
 ![Generic badge](https://img.shields.io/badge/language-CSharp-blue.svg)
 <br>
-<img src="https://media4.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952ufw8oyalcu4xbhyka6l3t8r5q6rlyp841xu1858z&rid=giphy.gif&ct=s">
+
 </div>
 
